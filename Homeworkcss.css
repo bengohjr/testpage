@@ -1,0 +1,55 @@
+body{
+	margin: 0;
+	font-family: 'Muli', sans-serif;
+	background-color: grey;
+}
+
+h1{
+	font-family: 'Limelight', cursive;
+	color: #FBCA03;
+}
+
+h4{
+	font-family: 'Limelight', cursive;
+}
+
+.introbgd{
+	background:url(ironintro.jpg);
+	background-size: 100%;
+	padding-top: 100px;
+	padding-bottom: 100px;
+	color: white;
+	text-align: center;
+
+}
+
+div img{
+	border-radius: 50%;
+	border: 3px grey solid;
+}
+
+.yellow{
+	background-color: #FBCA03;
+
+}
+
+.defaultcell{
+	margin-left: 150px;
+	margin-right: 150px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.rd{
+	background-color: #B97D10;
+}
+
+.grey{
+	background-color: grey;
+}
+
+.footer{
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 50px;
+}
